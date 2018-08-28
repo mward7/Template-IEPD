@@ -28,15 +28,15 @@
             </nc:DescriptionText>
             <c:HasDocumentElement c:qualifiedNameList="template:TemplateExchange"/>
             <c:XMLSchemaValid>
-                <c:XMLCatalog c:pathURI="xsd/xml-catalog.xml"/>
+                <c:XMLCatalog c:pathURI="base-xsd/xml-catalog.xml"/>
             </c:XMLSchemaValid>
             <c:IEPSampleXMLDocument c:pathURI="iep-samples/exchange-sample.xml"/>
         </c:IEPConformanceTarget>
         <c:ReadMe c:pathURI="readme.md"/>
-<!--        <c:MPDChangeLog c:pathURI="changelog.txt"></c:MPDChangeLog>-->
-<!--        <c:ConformanceAssertion c:pathURI="conformance-assertion.txt"/>-->
-        <c:XMLCatalog c:pathURI="xsd/niem/xml-catalog.xml"/>
-        <c:Wantlist c:pathURI="xsd/niem/wantlist.xml"/>
-        <c:ExtensionSchemaDocument c:pathURI="xsd/extension/TemplateExtension.xsd"/>
+        <c:MPDChangeLog c:pathURI="changelog.txt"></c:MPDChangeLog>
+        <c:ConformanceAssertion c:pathURI="conformance-assertion.txt"/>
+        <c:XMLCatalog c:pathURI="base-xsd/niem/xml-catalog.xml"/>
+        <c:Wantlist c:pathURI="base-xsd/niem/wantlist.xml"/>
+        <c:ExtensionSchemaDocument c:pathURI="base-xsd/extension/TemplateExtension.xsd"/>
      </c:MPD>
 </c:Catalog>
