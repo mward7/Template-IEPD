@@ -30,7 +30,7 @@
             <c:XMLSchemaValid>
                 <c:XMLCatalog c:pathURI="base-xsd/xml-catalog.xml"/>
             </c:XMLSchemaValid>
-            <c:IEPSampleXMLDocument c:pathURI="iep-samples/exchange-sample.xml"/>
+            <c:IEPSampleXMLDocument c:pathURI="iep-sample/exchange-sample.xml"/>
         </c:IEPConformanceTarget>
         <c:ReadMe c:pathURI="readme.md"/>
         <c:MPDChangeLog c:pathURI="changelog.txt"></c:MPDChangeLog>
