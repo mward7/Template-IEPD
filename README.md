@@ -2,7 +2,7 @@
 This is a template IEPD for NIEM 4.1. It is designed to be a starting point for 
 IEPD creators. 
 
-IEPDs built from this template should follow the NIEM-MPD 4.1 specification 
+IEPDs built from this template should follow the NIEM-MPD 3.0.1 specification 
 located here:
 https://reference.niem.gov/niem/specification/model-package-description/3.0.1/model-package-description-3.0.1.html
 
